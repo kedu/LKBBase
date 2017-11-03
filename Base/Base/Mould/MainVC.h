@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainVC.h
 //  Base
 //
 //  Created by Apple on 2017/11/3.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainVC : BaseVC
 
 @end
-
